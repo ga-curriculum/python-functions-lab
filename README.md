@@ -13,7 +13,7 @@ Write code that implements various methods, following the requirements listed be
 - Define a function, `max_of_two_numbers()`, that takes two numbers as arguments and returns the largest of them. I
   would
   suggest using conditional statements. Do a Google search to figure this out if you forgot how conditionals work.
-- Define a function, max_of_three(), that takes three numbers as arguments and returns the largest of them.
+- Define a function, `max_of_three()`, that takes three numbers as arguments and returns the largest of them.
 - Write a function, `is_character_a_vowel()`, that takes a character (i.e., a string of length 1) and returns true if
   it's a vowel and false otherwise.
 - Write a function `foo()` that returns the number (length) of arguments passed to it when called.
